@@ -1,0 +1,6 @@
+Passo 1: Ligar o primeiro interruptor e deixá-lo ligado até a lâmpada esquentar.
+Passo 2: Desligar o primeiro interruptor e ligar o segundo interruptor.
+Passo 3: Ir até à sala das lâmpadas e fazer a seguinte identificação:
+    (i) A lâmpada que está acessa corresponde ao segundo interruptor.
+    (ii) A lâmpada que está apagada e quente corresponde ao primeiro interruptor.
+    (iii) A lâmpada que está apagada e fria corresponde ao terceiro interruptor.
